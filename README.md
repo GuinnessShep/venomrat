@@ -35,11 +35,3 @@ Currently the program makes use of several integrated DLL's (see below for more 
 | Plugin | Source |
 | ------ | ------ |
 | StealerLib | [gitlab.com/thoxy/stealerlib] |
-
-
-### Donation
-##### Buy me a coffee!
-BTC: 144feg2TVeVjhLfXVrKvaTzu2ViX4gYv6q
-
-### LEGAL DISCLAIMER PLEASE READ!
-##### I, the creator and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
